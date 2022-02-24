@@ -12,4 +12,5 @@ meanwhile making a copy of the oriignal version as civ2.orig.
 civ2.orig file is used as a reference for further repatching.
 
 This patch has been made to make AI more rational and adequately peaceful.
+
 *This is 24th February, 2022. Say no to war. #SupportUkraine #UnitedForUkraine*
