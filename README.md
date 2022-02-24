@@ -7,7 +7,7 @@
 
 2) my own patch "Preventing mass betrayal after 1 AD" for Civ 1 [https://civilization.fandom.com/wiki/Cheating_(Civ1)]
 
-Placed at .\Civ2ToT\py\patch.py it replaces civ2.exe with patched version,
+Placed at .\Civ2ToT\py\patch.py at launch it replaces civ2.exe with patched version,
 meanwhile making a copy of the oriignal version as civ2.orig.
 civ2.orig file is used as a reference for further repatching.
 
