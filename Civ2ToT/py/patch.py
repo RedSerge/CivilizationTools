@@ -51,8 +51,6 @@ cmds = [
 	},
 ]
 
-#0..10
-
 for cmd in cmds:	
 	patterns = [p for p in re.finditer(cmd['re'], cnt)][cmd['pos_start']:cmd['pos_finish'] + 1]
 	for pattern in patterns:
